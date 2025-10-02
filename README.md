@@ -18,8 +18,6 @@ Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de tr
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac**
 - 📅 Início: **2024** | Conclusão prevista: **2026**
 - 📓 Estudando **Ethical Hacker** na Cisco Networking Academy
-- 📫 Contate-me no email: lucasgabrielllima2005@gmail.com
-- 😄 Pronomes: ele/dele
 
 ---
 
