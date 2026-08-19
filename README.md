@@ -51,8 +51,10 @@ Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de tr
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxfastxz&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxfastxz&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxfastxz&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=zxfastxz&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfastxz&layout=compact&theme=dark)
 
 
