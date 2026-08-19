@@ -51,11 +51,19 @@ Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de tr
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxfastxz&show_icons=true&theme=dark)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zxfastxz&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxfastxz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfastxz&layout=compact&theme=dark)
+<img height="180em" src="https://streak-stats.demolab.com/?user=zxfastxz&theme=dark"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxfastxz&layout=compact&theme=dark"/>
+
+</div>
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=850&lines=A+seguran%C3%A7a+perfeita+n%C3%A3o+existe,+mas+o+esfor%C3%A7o+precisa+ser+constante.)
