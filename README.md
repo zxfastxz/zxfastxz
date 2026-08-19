@@ -1,5 +1,3 @@
-## Olá! Eu sou o Lucas Gabriel
-
 ### 👨‍💻 Sobre mim
 
 <h1 align="center">
