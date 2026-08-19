@@ -91,7 +91,4 @@ identificar vulnerabilidades e estudar formas de torná-los mais seguros.
 [████████████░░░░░░░░░░]  Pentest
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=850&lines=A+seguran%C3%A7a+perfeita+n%C3%A3o+existe,+mas+o+esfor%C3%A7o+precisa+ser+constante.)
-
-
 
