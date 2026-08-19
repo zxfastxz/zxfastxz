@@ -2,11 +2,13 @@
 
 ### 👨‍💻 Sobre mim
 
-Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** no **Senac**, mas meu principal interesse está mesmo na área de **cibersegurança** e **ethical hacking**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pelo **Senac** e estou iniciando minha **Pós-Graduação em Cibersegurança no CESAR**, área pela qual tenho grande interesse.
 
-Gosto de entender como os sistemas funcionam por trás, identificar vulnerabilidades e aprender formas de torná-los mais seguros — sempre com foco em práticas éticas e responsáveis.
+Meu foco está em cibersegurança e ethical hacking. Gosto de entender como os sistemas funcionam, identificar vulnerabilidades e buscar formas de torná-los mais seguros, sempre com foco em práticas éticas e responsáveis.
 
-Venho estudando cada vez mais sobre segurança da informação, redes, testes de intrusão e proteção de aplicações, buscando construir uma base sólida nesse universo.
+Tenho estudado cada vez mais sobre segurança da informação, redes, testes de intrusão e proteção de aplicações, buscando fortalecer minha base técnica e me desenvolver profissionalmente na área.
+
+Estou em constante aprendizado, explorando novos conhecimentos e desafios para construir minha trajetória profissional em cibersegurança.
 
 Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de trabalhar com o que realmente me motiva.
 
@@ -14,10 +16,11 @@ Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de tr
 
 ### 🎯 Objetivos e Formação
 
-- 🔭 Buscando minha **primeira oportunidade de emprego**
-- 💻 Cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac**
-- 📅 Início: **2024** | Conclusão prevista: **2026**
-- 📓 Estudando **Ethical Hacker** na Cisco Networking Academy
+- 🚀 Iniciando minha trajetória profissional na área de tecnologia
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade Senac
+- 📅 Formação concluída em 2026
+- 🔐 Iniciando Pós-Graduação em Cibersegurança — CESAR
+- 📓 Estudando **Ethical Hacker** pela Cisco Networking Academy
 
 ---
 
