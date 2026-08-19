@@ -2,6 +2,18 @@
 
 ### 👨‍💻 Sobre mim
 
+<h1 align="center">
+  LUCAS GABRIEL
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Student;Security+%7C+Linux+%7C+Networks;Always+Learning+%F0%9F%94%90" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zxfastxz&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
 Sou formado em **Análise e Desenvolvimento de Sistemas** pelo **Senac** e estou iniciando minha **Pós-Graduação em Cibersegurança no CESAR**, área pela qual tenho grande interesse.
 
 Meu foco está em cibersegurança e ethical hacking. Gosto de entender como os sistemas funcionam, identificar vulnerabilidades e buscar formas de torná-los mais seguros, sempre com foco em práticas éticas e responsáveis.
@@ -53,30 +65,6 @@ Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de tr
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=zxfastxz&layout=compact&theme=dark)
 
-<h1 align="center">
-  👨‍💻 zxfastxz
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Student;Security+%7C+Linux+%7C+Networks;Always+Learning+%F0%9F%94%90" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zxfastxz&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo **Senac**  
-🔐 Iniciando **Pós-Graduação em Cibersegurança** no **CESAR**  
-🛡️ Foco em **Cibersegurança, Ethical Hacking e Segurança da Informação**
-
-Tenho interesse em entender como sistemas, redes e aplicações funcionam, 
-identificar vulnerabilidades e estudar formas de torná-los mais seguros.
-
-> `Think like an attacker. Build like a defender.`
 
 ---
 
