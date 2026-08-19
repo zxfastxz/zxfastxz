@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Student;Security+%7C+Linux+%7C+Networks;Always+Learning+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Student;Security+%7C+Linux+%7C+Networks;Always+Learning" />
 </p>
 
 <p align="center">
