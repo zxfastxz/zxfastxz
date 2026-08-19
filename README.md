@@ -63,10 +63,9 @@ Sigo aprendendo e evoluindo todos os dias, com muita curiosidade e vontade de tr
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=zxfastxz&layout=compact&theme=dark)
 
-
 ---
 
-## 🧠 Atualmente estudando
+## Estudando
 
 ```text
 [████████████████████░░]  Cibersegurança
